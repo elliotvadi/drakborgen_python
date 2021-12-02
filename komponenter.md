@@ -1,0 +1,22 @@
+# Spelkomponenter
+
+- T12 och T6
+- Valbara spelkaraktärer 
+- 116 individuella rumsbrickor ("Rumsbrickor", vilka olika rum som finns)
+- 4 karaktärsbrickor (Definierar och beskriver olika karaktärer och deras förmågor)
+- 1 armborstkort (Info och strid för armborst)
+- 24 stridskort (Bestämmer hur olika monster slåss och vilka drag de gör)
+- 32 skattkammarkort (Loot från skattkammaren)
+- 84 rumskort (Definierar vad som händer i rummet)
+- 8 drakkort (Bestämmer om draken vaknar eller sover)
+- 15 rumsfällor kort (Definieraer olika fällor man kan träffa på)
+- 15 sökningskort (Definierar vad man hittar om man söker igenom ett rum)
+- 15 rumsletningskort (Definierar vad man hittar om man letar efter något i ett rum)
+- 15 kistkort (Definierar vad man hittar och/eller vad som händer om man försöker söka igenom eller öppna en kista)
+- 15 dörrkort (Definierar om vad som händer om man försöker öppna en dörr)
+- 15 monsterkort (Definierar vilka monster som finns och vad de gör)
+- 8 regelkort (Visar lite regler)
+- 1 dryckeskort
+- 4 magiska ringkort (Fyra magiska ringar, alla med olika egenskaper. Dras slumpmässigt.)
+- Regler (Visar alla regler)
+- En spelsession varar i 26 rundor, efter vilket solen går ner och spelaren dör (om di befinner sig i borgen)
