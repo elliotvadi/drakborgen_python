@@ -7,3 +7,5 @@ eftersom det är strukturerat på så sätt att spelet är spelledare.
 Spelets många regler innebär även att spelet har en dynamisk och 
 engagerande karaktär, vilket bör passa väldigt bra för ett datorspel. 
 Spelet har många slumpade element, vilket gör spelvärlden mer levande. 
+
+Om allting skiter sig så kommer jag att fokusera på att försöka göra en variant av 'Drakskatten' istället.
