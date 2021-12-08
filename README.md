@@ -9,3 +9,17 @@ engagerande karaktär, vilket bör passa väldigt bra för ett datorspel.
 Spelet har många slumpade element, vilket gör spelvärlden mer levande. 
 
 Om allting skiter sig så kommer jag att fokusera på att försöka göra en variant av 'Drakskatten' istället.
+
+
+# Uppdatering 08/12/2021
+Jag har kommit fram till att projektet kommer att vara löst baserat på Drakskatten och Drakborgen. Detta beror i grund och botten 
+på att jag ej har tillgång till många av Drakborgens komponenter, vilket innebär att jag inte helt kan basera mitt spel på det. Därför tänker jag
+istället löst basera mitt spel på både Drakborgen och Drakskatten. Jag tänker basera en del av händelseförloppet och vissa funktioner på Drakborgen,
+men övriga funktioner (i synnerhet rum och fiender) kommer att baseras på Drakborgen. 
+
+Jag funderar i nuläget på att ha en linjär "karta" som spelet utspelar sig på, men där rum och övriga utrymmen kommer att slumpas. Rummens innehåll samt
+händelser i rummen kommer jag förmodligen hämta från Drakborgen, medans örviga detaljer så som rummens funktion sannolikt kommer hämtas från Drakskatten.
+
+Alternativet till en linjär "karta" skulle vara att man även kan gå åt olika riktningar, så som höger och vänster, men att riktning (om valbart)
+väljs av spelaren eller datorn. Detta skulle göra spelet mer levande. Detta kräver dock emellertid att man använder sig av någon form av koordinatsystem
+för att hålla koll på var spelaren är, och för att se till att "kartan" håller sig innanför "spelplanen", samt så att man inte fastnar.
