@@ -23,3 +23,23 @@ händelser i rummen kommer jag förmodligen hämta från Drakborgen, medans örv
 Alternativet till en linjär "karta" skulle vara att man även kan gå åt olika riktningar, så som höger och vänster, men att riktning (om valbart)
 väljs av spelaren eller datorn. Detta skulle göra spelet mer levande. Detta kräver dock emellertid att man använder sig av någon form av koordinatsystem
 för att hålla koll på var spelaren är, och för att se till att "kartan" håller sig innanför "spelplanen", samt så att man inte fastnar.
+
+
+# Uppdatering 09/12/2021 
+Följande element kommer att hämtas från Drakborgen (Preliminärt): 
+* Fällkort
+* Kistor med tillhörande kort
+* Stupad krigare med tillhörande kort
+* Draken och skattkammaren
+* Rumsletning (med lönndörr, som leder till annat rum)
+* Flaskor
+* Monster
+* Stridssystemet
+* Magiska ringar (möjligen även magiska amuletter)
+* Jättespindel (Kanske)
+* Dörrar med tillhörande dörrfällor (Kanske)
+* Spelkaraktärer, med tillhörande färdigheter
+* Guldföremål
+* 22 rundor totalt
+* Facklan slocknar (Kanske)
+* Totalt sett 10 rum
