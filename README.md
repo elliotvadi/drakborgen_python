@@ -43,3 +43,4 @@ Följande element kommer att hämtas från Drakborgen (Preliminärt):
 * 22 rundor totalt
 * Facklan slocknar (Kanske)
 * Totalt sett 10 rum
+* Övriga spelregler
