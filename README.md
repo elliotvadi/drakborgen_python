@@ -44,3 +44,7 @@ Följande element kommer att hämtas från Drakborgen (Preliminärt):
 * Facklan slocknar (Kanske)
 * Totalt sett 10 rum
 * Övriga spelregler
+
+
+# Uppdatering 21/12/2021
+Jag har nu beslutat mig för att inte längre ha en helt slumpad spelplan. Detta beror på att det tycks bli väldigt svårt att programmera en helt slumpad plan, om man inte vill göra saker och ting alltför komplicerade. Jag har därför valt att ha en bestämt layout, men där rummen i sig är slumpade. Jag funderar även på att i alla fall preliminärt skära ner på antalet spelbara karaktärer för att underlätta för testning av spelet. 
