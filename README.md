@@ -48,3 +48,6 @@ Följande element kommer att hämtas från Drakborgen (Preliminärt):
 
 # Uppdatering 21/12/2021
 Jag har nu beslutat mig för att inte längre ha en helt slumpad spelplan. Detta beror på att det tycks bli väldigt svårt att programmera en helt slumpad plan, om man inte vill göra saker och ting alltför komplicerade. Jag har därför valt att ha en bestämt layout, men där rummen i sig är slumpade. Jag funderar även på att i alla fall preliminärt skära ner på antalet spelbara karaktärer för att underlätta för testning av spelet. 
+
+**Spelplanens layout:**
+https://media.discordapp.net/attachments/748131370722918490/922799353867931728/drakborgen_spelplan.png?width=853&height=640
